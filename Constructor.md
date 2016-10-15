@@ -5,7 +5,7 @@
  ```java
 class demo{
 	public demo(int a,string b){
-		`this();`
+		this();
 		...
 	}
 	public demo(){... }
@@ -16,7 +16,7 @@ class demo{
  ```java
 class demo{
 	public demo(int a,string b){
-		`this(a);`
+		this(a);
 		...
 	}
 	public demo(int a){

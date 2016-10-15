@@ -1,4 +1,6 @@
 #Constructor
+##feature
+* Everytime `new` a object,the constructor will be excute too.
 ##this
 *  `this` can call other methods in its Constructor.(`this` must be the `first` sentence)
 

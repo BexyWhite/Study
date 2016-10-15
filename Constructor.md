@@ -1,17 +1,18 @@
 #Constructor
 ##this
-* 'this' can call other methods in its Constructor.(`this` must be the `first` sentence)
+*  `this` can call other methods in its Constructor.(`this` must be the `first` sentence)
+
  ```java
 class demo{
 	public demo(int a,string b){
 		`this();`
 		...
 	}
-	public demo(){。。。。。  }
+	public demo(){... }
 }
 ```
 
-*`this` can't make `recursion` happened.
+* `this` can't make `recursion` happened.
  ```java
 class demo{
 	public demo(int a,string b){
